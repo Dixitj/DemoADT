@@ -1,2 +1,0 @@
-# DemoADT
-Demo App
